@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TontiMonti
 - 👀 I’m interested in Webdevelopment and C# Coding
 - 🌱 I’m currently learning JavaScript and C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 Gmail: mhorvath255@gmail.com 
 
 <!---
